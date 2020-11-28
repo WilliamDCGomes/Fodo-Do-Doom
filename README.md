@@ -1,15 +1,8 @@
-# Sistema de Jogo de Xadrez
+# Fogo do jogo Doom
 
-## Sistema criado com o intuito de recriar o jogo de xadrez dentro de um console
+## O projeto tem como objetivo recriar o fogo do jogo Doom, atravéz de linha de código
 
-### O Sistema
+### O Fogo
 
-![Imagem do Sistema](https://github.com/WilliamDCGomes/Sistema-de-jogo-de-xadrez/blob/master/Arquivos%20Readme/img1.png)
+![Fogo do Doom](https://github.com/WilliamDCGomes/Fodo-Do-Doom/blob/main/indexFiles/gif.gif)
 
-### Funcionamento
-
-#### Movendo as Peças
-![Movendo as Peças](https://github.com/WilliamDCGomes/Sistema-de-jogo-de-xadrez/blob/master/Arquivos%20Readme/Gif1.gif)
-
-#### Xeque Mate!
-![Dando Xeque Mate](https://github.com/WilliamDCGomes/Sistema-de-jogo-de-xadrez/blob/master/Arquivos%20Readme/Gif2.gif)
